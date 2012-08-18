@@ -11,7 +11,7 @@
   <description>FashiLook Mobile Application</description>
   <author href="http://www.skyname.net" email="info@skyname.net">Sky Online</author>
   <preference name="orientation" value="portrait" />
-  <gap:splash src="splash.png" />
+  <gap:splash src="splash.jpg" />
   <icon src="icon.png" />
   
   <feature name="http://api.phonegap.com/1.0/network"/>
