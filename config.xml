@@ -11,6 +11,8 @@
   <description>FashiLook Mobile Application</description>
   <author href="http://www.skyname.net" email="info@skyname.net">Sky Online</author>
   <preference name="orientation" value="portrait" />
+  <preference name="ios-statusbarstyle" value="black-opaque" />
+  <preference name="fullscreen" value="true" />
   <gap:splash src="splash.png" />
   <icon src="icon.png" />
   
