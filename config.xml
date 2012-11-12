@@ -12,6 +12,7 @@
   <author href="http://www.skyname.net" email="info@skyname.net">Sky Online</author>
   <preference name="orientation" value="portrait" />
   <gap:splash src="splash.png" />
+  <preference name="fullscreen" value="true" />
   <icon src="icon.png" />
   <access origin="*" />
   <feature name="http://api.phonegap.com/1.0/network"/>
